@@ -1,3 +1,4 @@
+NOTE: Create app/Config/database.php as per your MySQL environment
 
 [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
 
